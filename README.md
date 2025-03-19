@@ -28,3 +28,11 @@ Example
 Input 25 in the Celsius field and click "Convert" → Output: 77.00 Fahrenheit.
 Input 10 in the Kilograms field and click "Convert" → Output: 22.05 Pounds.
 Input 8 in the Kilometers field and click "Convert" → Output: 4.97 Miles.
+
+IMAGES:
+
+![image](https://github.com/user-attachments/assets/a20b421c-d3b4-420b-a292-8f23e1b8c7b5)
+![image](https://github.com/user-attachments/assets/994333ac-afda-4815-9c21-66eb8102501e)
+![image](https://github.com/user-attachments/assets/8566362d-0891-4b2b-b565-32bb84f855ef)
+
+
